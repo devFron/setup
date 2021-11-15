@@ -1,0 +1,74 @@
+{
+    "files.autoSave": "off",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "workbench.colorTheme": "One Dark Pro",
+    "editor.accessibilitySupport": "off",
+    "workbench.editorAssociations": {
+        "*.html": "default"
+    },
+    "liveServer.settings.donotShowInfoMsg": true,
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "timeline.excludeSources": [],
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.activityBar.visible": true,
+    "editor.columnSelection": false,
+    "editor.renderControlCharacters": true,
+    "editor.fontFamily": "JetBrains Mono",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "emmet.syntaxProfiles": {
+        "javascript": "html"
+    },
+    "emmet.includeLanguages": {
+        "javascript": "html"
+    },
+    "vscode-edge-devtools.mirrorEdits": true,
+    "editor.fontWeight": "bold",
+    "better-comments.tags": [
+        {
+          "tag": "!",
+          "color": "#E06C75",
+          "strikethrough": false,
+          "underline": false,
+          "backgroundColor": "transparent",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "tag": "?",
+          "color": "#61AFEF",
+          "strikethrough": false,
+          "underline": false,
+          "backgroundColor": "transparent",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "tag": "//",
+          "color": "#474747",
+          "strikethrough": true,
+          "underline": false,
+          "backgroundColor": "transparent",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "tag": "todo",
+          "color": "#f1b545",
+          "strikethrough": false,
+          "underline": false,
+          "backgroundColor": "transparent",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "tag": "*",
+          "color": "#98C379",
+          "strikethrough": false,
+          "underline": false,
+          "backgroundColor": "transparent",
+          "bold": false,
+          "italic": false
+        }
+    ],
+    "errorLens.fontWeight": "bold"
+}
